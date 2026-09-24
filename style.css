@@ -1,0 +1,19 @@
+th {
+    background-color: #B0AFEB;
+    padding: 20px;
+}
+td {
+    background-color: #000000;
+    padding: 20px;
+}
+
+td:first-child {
+    background-color: #7371DC;
+}
+table {
+    border-collapse: collapse;
+    color: white;
+}
+tr:last-child td:last-child{    
+    border-radius: 0px 0px 50px 0px;
+}
